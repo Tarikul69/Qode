@@ -1,11 +1,11 @@
 import os
 import json
 
-folder = ".mytracker"
+folder = ".qode"
 if not os.path.exists(folder):
     os.makedirs(folder)
     with open(f"{folder}/config.json", "w") as f:
         json.dump({"initialized": True}, f)
-    print("Initialized custom tracker in .mytracker/")
+    print("Initialized custom tracker in .qode/")
 else:
-    print(".mytracker already exists.")
+    print(".qode already exists.")
