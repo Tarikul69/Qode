@@ -2,5 +2,5 @@
 
 ## System design
 <div align="center">
-  <img src="assets/image2.png" alt="Logicmatrix Logo" style="max-width: 100%; height: auto; border-radius: 12px;" />
+  <img src="system_design .png" alt="Logicmatrix Logo" style="max-width: 100%; height: auto; border-radius: 12px;" />
 </div>
